@@ -1,0 +1,37 @@
+.todo-subheading{
+    font-weight:400;
+    font-size:38px;
+}
+.todo-form-create{
+    font-weight:500;
+}
+.label-text{
+    font-weight:400;
+    font-size:22px;
+}
+.check-box-el{
+    width: 20px;
+    height: 20px;
+    margin-top: 15px;
+    margin-right: 12px;
+}
+.label-container{
+    background-color: #e6f6ff;
+    width: 100%;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #096f92;
+    border-right: none;
+    border-top: none;
+    border-bottom: none;
+    border-radius: 4px;
+    padding:7px;
+    padding-left:15px;
+}
+.delete-button{
+    background-color: transparent;
+    border-width: 0;
+}
+.list-litem-container{
+    padding: 0;
+}
